@@ -1,0 +1,4 @@
+[output_config]
+
+MXFC_GPIO_DELAY = 500  #ms
+MXFC_USB= enalbe #enable/disable USB mass storage
